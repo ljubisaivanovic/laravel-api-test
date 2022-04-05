@@ -8,7 +8,7 @@ Please check the official laravel installation guide for server requirements bef
 
 Clone the repository
 
-    git clone git@github.com:ljubisaivanovic/q-test.git
+    git clone git@github.com:ljubisaivanovic/laravel-api-test.git
 
 
 Copy the example env file and make the required configuration changes in the .env file
